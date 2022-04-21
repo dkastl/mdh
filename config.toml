@@ -1,6 +1,6 @@
 title = '和ハーブを取り入れて心地よい毎日を🌿'
 theme = "hugo-scroll"
-baseURL = 'https://www.alarina.jp/'
+baseURL = 'https://alarina.jp/'
 
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
