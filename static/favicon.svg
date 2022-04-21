@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg855"
+   width="279.34119"
+   height="287.30386"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs859" />
+  <sodipodi:namedview
+     id="namedview857"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" />
+  <inkscape:clipboard
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:1.3333333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     min="634.45503,10.000003"
+     max="913.7962,297.30387"
+     geom-min="634.45503,10.000003"
+     geom-max="913.7962,297.30387" />
+  <g
+     id="g861"
+     transform="matrix(1.3333333,0,0,1.3333333,-660.31138,-553.95877)">
+    <g
+       id="g62"
+       transform="translate(495.23355,415.46909)">
+      <g
+         id="g64"
+         transform="matrix(2.154768,0,0,2.154768,-2.985364,0)">
+        <g
+           id="g66">
+          <path
+             d="M 34.299,89.102 C 18.86,84.527 -25.674,64.976 24.795,0 52.086,18.521 62.602,34.817 64.549,48.283 51.495,52.958 42.508,62.047 43.628,78.491 36.518,61.582 30.94,38.196 28.547,23.615 c -1.2,17.033 1.313,47.329 5.752,65.487 z"
+             style="fill:#5065a8;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path68" />
+        </g>
+        <g
+           id="g70">
+          <path
+             d="M 51.772,93.184 C 48.014,82.738 40.207,48.778 98.54,50.65 100.252,103.998 71.996,102.029 59.164,98.428 64.476,88.088 71.314,78.756 79.967,70.877 69.352,76.754 59.899,84.209 51.772,93.184 Z"
+             style="fill:#5065a8;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path72" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
