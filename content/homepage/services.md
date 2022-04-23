@@ -22,4 +22,6 @@ show_title: false
 自然豊かな摩耶山に自生する和ハーブたちを一緒に楽しみましょう。<br>
 開催日によって内容は変わることがあります。決まり次第更新していきます。
 
+![MAYA de 和ハーブ](/images/maya_de_waherb.jpg)
+
 「MAYA de 和ハーブ」の[イベントのサイト](https://coubic.com/mayasan/621355)へ！
