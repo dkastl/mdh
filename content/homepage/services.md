@@ -5,7 +5,7 @@ header_menu: true
 show_title: false
 ---
 
-<img src="/images/maya_white.svg" alt="MAYA de 和ハーブ" style="padding:30px;width:50%">
+<img src="/images/maya.svg" alt="MAYA de 和ハーブ" style="padding:30px;width:50%">
 
 **森林セラピストと歩く 摩耶山香りの和ハーブ散策**
 
