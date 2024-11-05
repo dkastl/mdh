@@ -9,7 +9,7 @@ defaultContentLanguage = "ja"
 hasCJKLanguage = true
 
 [params]
-  copyright = "© 2023 Alarina. All rights reserved."
+  copyright = "© 2024 Alarina. All rights reserved."
   description = "私たちと一緒に足もとの宝物をさがすおさんぽに出かけませんか？"
   favicon = "images/favicon.png"
   images = ["images/cover-image.jpg"]
