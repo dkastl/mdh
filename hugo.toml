@@ -1,0 +1,84 @@
+baseURL = 'https://alarina.jp/'
+
+title = '和ハーブを取り入れて心地よい毎日を🌿'
+theme = "hugo-scroll"
+
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+languageCode = 'ja-jp'
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+
+# enableGitInfo = true
+# enableEmoji = true
+
+[params]
+  favicon = "images/favicon.png"
+  images = ["images/cover-image.jpg"]
+
+  title_guard = false
+  title = "和ハーブを取り入れて心地よい毎日を🌿"
+  description = "私たちと一緒に足もとの宝物をさがすおさんぽに出かけませんか？"
+
+  # Show a menu of languages available
+  language_menu = false
+  show_current_lang = false
+
+  copyright = "© 2024 Alarina. All rights reserved."
+  hidedesignbyline = true
+  invertSectionColors = false
+  combine_page_and_site_title = false
+
+  [params.footer]
+    showContactIcons = false
+    showFooterLinks = false
+
+  [params.meta]
+    keywords = "和ハーブ, 和ハーブ協会認定, フィールドマスター, Fieldmaster"
+
+  [[params.contacts]]
+    label = "instagram"
+    value = "@japanese_herbs"
+    url = "https://www.instagram.com/japanese_herbs/"
+    icon = "fa fa-brands fa-instagram"
+
+  [[params.contacts]]
+    label = "email"
+    value = "hello@alarina.jp"
+    url = "mailto:hello@alarina.jp"
+    icon = "fa fa-envelope"
+
+# Define additional languages
+[languages]
+  [languages.ja]
+    weight = 10
+    languageName = "日本語"
+    contentDir = "content/ja"
+
+  [languages.en]
+    weight = 20
+    languageName = "English"
+    contentDir = "content/en"
+    title = "Enjoy a pleasant life with Japanese herbs🌿"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
